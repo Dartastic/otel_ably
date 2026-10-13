@@ -57,7 +57,7 @@ A complete observability backend where Flutter and Dart are first-class citizens
 - **Dartastic Hosted Observatory** — Run the observability stack in a private managed environment, sized from Mini to Enterprise XL.
 - **Dartastic Self-Hosted Observatory** — The whole platform inside your own network. Your keys, your cluster, with nothing leaving your perimeter.
 
-### Dartastic Pro OTel Runtime — Native OpenTelemetry Performance
+### Dartastic Native OTel Runtime — Native OpenTelemetry Performance
 
 Collect production telemetry without burdening Flutter's main isolate.
 
@@ -73,8 +73,7 @@ Collect production telemetry without burdening Flutter's main isolate.
 
 Instrument more of your application without writing everything yourself.
 
-- **50+ open-source integrations** for Dart and Flutter libraries including Dio, Shelf, and Logger. Look for otel_* in pub.dev.
-- **600+ Pro integrations** for services and libraries including Anthropic, AWS, Azure, and Stripe.
+- **650+ open-source integrations** for Dart and Flutter libraries and services, including Dio, Shelf, Logger, Anthropic, AWS, Azure, and Stripe. Look for otel_* on pub.dev.
 
 ### More Dartastic Tools
 
