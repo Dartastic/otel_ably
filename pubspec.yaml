@@ -1,5 +1,7 @@
 name: otel_ably
-description: OpenTelemetry bridge for Ably realtime (publish, subscribe, presence).
+description: >-
+  OpenTelemetry instrumentation for ably by Dartastic.io. Adds standard
+  OpenTelemetry observability to applications that use ably.
 version: 0.1.0-wip
 repository: https://github.com/dartastic/otel_ably
 homepage: https://dartastic.io
