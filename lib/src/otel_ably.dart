@@ -12,7 +12,10 @@ APITracer _tracer() => OTelAPI.tracerProvider().getTracer(_tracerName);
 
 /// Pair returned from a `tracedAbly*` invoke callback.
 class AblyCallResult<T> {
+  /// Creates a call result.
   const AblyCallResult({required this.value, this.messageId});
+
+  /// The value returned to the caller.
   final T value;
   final String? messageId;
 }
